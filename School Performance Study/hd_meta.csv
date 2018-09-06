@@ -1,0 +1,12 @@
+,LongCA_names,ShortCA_names
+0,mnemonic,LAC
+1,All categories: NS-SeC,ALLCAT
+2,local authority: district / unitary (prior to April 2015),LA
+3,"1. Higher managerial, administrative and professional occupations",H_MAPO
+4,"2. Lower managerial, administrative and professional occupations",L_MAPO
+5,3. Intermediate occupations,IO
+6,4. Small employers and own account workers,SEOAW
+7,5. Lower supervisory and technical occupations,LSTO
+8,6. Semi-routine occupations,SRO
+9,7. Routine occupations,RO
+10,8. Never worked and long-term unemployed,NW_LTU
